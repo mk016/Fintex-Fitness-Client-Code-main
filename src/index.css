@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Trainer Card Icons Style */
+.trainer-icons {
+  transition: 0.5s;
+}
+.trainer-icons:hover {
+  transform: translateX(-20px);
+}
+
+/* auth route Icons Style */
+.auth-icons {
+  transition: 0.5s;
+}
+.auth-icons:hover {
+  transform: translateY(-20px);
+}
+
+.div {
+  display: flex;
+}
+
+.responsive-padding {
+  @apply px-4 md:px-5 lg:px-8 xl:px-10 2xl:px-12;
+}
