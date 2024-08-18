@@ -12,7 +12,7 @@ https://fintex-fitness.netlify.app
 
 - Tailor your fitness routine with personalized workout plans based on your goals, fitness level, and preferences for a more effective and enjoyable experience.
 
-- Monitor your daily activities, from steps taken and calories burned to specific exercises performed, providing a holistic view of your fitness journey.
+
 
 - Set achievable fitness goals and track your progress over time. Receive insights into your achievements, celebrate milestones, and stay motivated on your path to a healthier lifestyle.
 
